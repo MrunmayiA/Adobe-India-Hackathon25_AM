@@ -48,87 +48,58 @@ def extract_title(page) -> str:
 
 
 def cluster_font_sizes(spans: List[Dict[str, Any]], n_clusters=4) -> Dict[float, str]:
-    """
-    Cluster font sizes to assign heading levels (H1, H2, H3, H4).
-    Returns a mapping from font size to heading level.
-    """
-    sizes = np.array([span['size'] for span in spans]).reshape(-1, 1)
-    unique_sizes = sorted(set(sizes.flatten()), reverse=True)
-    if len(unique_sizes) <= n_clusters:
-        levels = [f"H{i+1}" for i in range(len(unique_sizes))]
-        return {sz: lvl for sz, lvl in zip(unique_sizes, levels)}
     from sklearn.cluster import KMeans
+    sizes = np.array([span['size'] for span in spans]).reshape(-1, 1)
     kmeans = KMeans(n_clusters=n_clusters, random_state=0).fit(sizes)
     centers = sorted(kmeans.cluster_centers_.flatten(), reverse=True)
     levels = [f"H{i+1}" for i in range(n_clusters)]
+    
     size_to_level = {}
-    for i, c in enumerate(centers):
-        # assign all sizes closest to this center
-        for sz in set(sizes.flatten()):
-            if abs(sz - c) < 0.1:
-                size_to_level[sz] = levels[i]
-    # fallback for any missing
     for sz in set(sizes.flatten()):
-        if sz not in size_to_level:
-            idx = np.argmin([abs(sz - c) for c in centers])
-            size_to_level[sz] = levels[idx]
+        idx = np.argmin([abs(sz - c) for c in centers])
+        size_to_level[sz] = levels[idx]
     return size_to_level
 
 
 
-
-import re
-
 def is_heading_candidate(text: str) -> bool:
-    """
-    Determines whether a given text span is likely a heading using general heuristics.
-    Avoids hardcoding any document-specific terms.
-    """
-
     clean = text.strip().rstrip(':').strip()
 
-    # Reject empty or whitespace-only
     if not clean:
         return False
 
-    # ❌ Reject lines that are obviously too short or too long
-    if len(clean) > 100 or len(clean) < 5:
+    if len(clean) > 150 or len(clean) < 3:
         return False
 
     word_count = len(clean.split())
-    if word_count < 2 or word_count > 12:
+    if word_count > 20:
         return False
 
-    # ❌ Reject full sentences that end in a period
     if clean.endswith('.'):
         return False
 
-    # ❌ Reject lines that are only numbers or symbols
     if re.fullmatch(r'[\W\d\s]+', clean):
         return False
 
-    # ❌ Reject lines that look like full names or name lists
-    if re.fullmatch(r'^([A-Z][a-z]+[\s,]*){1,5}$', clean):
+    if re.fullmatch(r'^([A-Z][a-z]+[\s,]*){1,6}$', clean):
         return False
-    
-        # ❌ Reject lines like 'Page X of Y'
+
     if re.match(r'Page\s+\d+\s+of\s+\d+', clean, re.IGNORECASE):
         return False
 
-    # ❌ Reject version numbers like 'Version 1.0', 'Version 2022'
     if re.match(r'Version\s+\d+(\.\d+)*', clean, re.IGNORECASE):
         return False
 
-
-    # ❌ Reject lines that are single years or look like dates
     if re.fullmatch(r'\d{4}', clean):
         return False
+
     if re.search(r'\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\b', clean, re.IGNORECASE):
         return False
+
     if re.search(r'\d{1,2}[-/]\d{1,2}[-/]\d{2,4}', clean):
         return False
 
-    # ✅ Starts with capital letter or digit
+    # ✅ Loosened condition: allow headings that start with digits + capital
     if not re.match(r'^[A-Z0-9]', clean):
         return False
 
@@ -165,12 +136,13 @@ def extract_headings(doc) -> List[Dict[str, Any]]:
 
         # Numeric pattern logic for level detection
         level = None
-        if re.match(r'^\d+\.\d+\.\d+', clean):  # 1.2.3
+        if re.match(r'^\d+(\.\d+){2,}', clean):  # 1.2.3+
             level = "H3"
         elif re.match(r'^\d+\.\d+', clean):  # 1.2
             level = "H2"
         elif re.match(r'^\d+', clean):  # 1
             level = "H1"
+
 
         # Fall back to font size-based level if regex fails
         if not level:
@@ -179,12 +151,14 @@ def extract_headings(doc) -> List[Dict[str, Any]]:
                 level = size_to_level.get(span['size'])
             else:
                 continue
+            
+            # ✅ Enforce bold only for H1 — H2/H3 can be normal text
+            # ✅ If heading was matched by regex, trust it even if not bold.
+            # Only skip large unstructured text fallback if not bold
+            if not level.startswith('H') and not (span['flags'] & 2):
+                continue
 
 
-
-        # For H1 and H2, prefer bold text
-        if level in ('H1', 'H2') and not (span['flags'] & 2):
-            continue
 
         headings.append({
             'level': level,
@@ -215,6 +189,8 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     doc = fitz.open(pdf_path)
     title = extract_title(doc[0]) if len(doc) > 0 else ""
     outline = extract_headings(doc)
+    print(f"[DEBUG] Total extracted headings: {len(outline)}")
+
     return {
         "title": title,
         "outline": outline
