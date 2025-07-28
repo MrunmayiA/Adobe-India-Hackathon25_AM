@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "input_documents": [
+      "input\\file01.pdf",
+      "input\\file02.pdf",
+      "input\\file03.pdf",
+      "input\\file04.pdf",
+      "input\\file05.pdf"
+    ],
+    "persona": "PhD Researcher",
+    "job_to_be_done": "Literature review",
+    "processing_timestamp": "2025-07-27T00:04:23.390772"
+  },
+  "documents": []
+}

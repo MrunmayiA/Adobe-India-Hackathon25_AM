@@ -1,4 +1,5 @@
-fitz
-PyMuPDF
+PyMuPDF==1.22.5
 numpy
-scikit-learn 
+scikit-learn
+beautifulsoup4
+cssutils 

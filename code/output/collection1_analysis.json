@@ -1,0 +1,5310 @@
+{
+  "metadata": {
+    "input_documents": [
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - Cities.pdf",
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - Cuisine.pdf",
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - History.pdf",
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - Restaurants and Hotels.pdf",
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - Things to Do.pdf",
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - Tips and Tricks.pdf",
+      "D:\\AAdobe\\Hackathon\\appendix\\Challenge_1b\\Collection 1\\PDFs\\South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Tourist planning a trip",
+    "job_to_be_done": "Understand key attractions and culture of South France",
+    "processing_timestamp": "2025-07-27T00:08:41.096460"
+  },
+  "documents": [
+    {
+      "file_name": "South of France - Cities.pdf",
+      "title": "Comprehensive Guide to Major Cities in the South of France Introduction The South of France, known for its stunning landscapes, Mediterranean coastline, and rich cultural heritage, is home to some of the most beautiful and historically significant cities in the country. This guide provides an in-depth look at the major cities in the South of France, detailing their history, key attractions, cultural highlights, and unique characteristics. Whether you're planning a visit or simply want to learn more about this enchanting region, this guide",
+      "sections": [
+        {
+          "text": "Comprehensive Guide to Major Cities in the South of France",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Overview of the Region",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.6979591836734693
+        },
+        {
+          "text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur,",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5979591836734693
+        },
+        {
+          "text": "Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes,",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5979591836734693
+        },
+        {
+          "text": "Travel Tips",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5979591836734693
+        },
+        {
+          "text": "Best Time to Visit",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5979591836734693
+        },
+        {
+          "text": "Transportation",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5979591836734693
+        },
+        {
+          "text": "Language",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5979591836734693
+        },
+        {
+          "text": "Marseille: The Oldest City in France",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "North African, making it a melting pot of traditions and customs.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.6959183673469388
+        },
+        {
+          "text": "Old Port (Vieux-Port)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Basilica of Notre-Dame de la Garde",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Built in the 19th century, it is a symbol of the city's maritime heritage.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "MuCEM (Museum of European and Mediterranean Civilizations)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Le Panier",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Local Experiences",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Boat Trip to the Calanques",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Fish Market at the Old Port",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Street Art in Cours Julien",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Marseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5959183673469388
+        },
+        {
+          "text": "Nice: The Jewel of the French Riviera",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Roman colony and has since evolved into a glamorous resort town. In the 19th century, Nice",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.6918367346938775
+        },
+        {
+          "text": "Promenade des Anglais",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Mediterranean and is lined with cafes and hotels.",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Castle Hill (Colline du Château)",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Old Town (Vieux Nice)",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Matisse Museum",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Hidden Gems",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Russian Orthodox Cathedral",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Marc Chagall National Museum",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Parc Phoenix",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5918367346938775
+        },
+        {
+          "text": "Avignon: The City of Popes",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Roman times, and it has been a significant religious and cultural center for centuries.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.6877551020408162
+        },
+        {
+          "text": "Palais des Papes",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Pont Saint-Bénézet (Pont d'Avignon)",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Avignon Cathedral",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Place de l'Horloge",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Cultural Activities",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Opéra Grand Avignon",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Arts Scene",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Avignon is famous for its annual Festival d'Avignon, held in July, which is one of the most",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5877551020408163
+        },
+        {
+          "text": "Aix-en-Provence: A City of Art and Culture",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture,",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.6857142857142856
+        },
+        {
+          "text": "Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Hôtel de Ville is a lively spot, often hosting markets and events.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Cézanne created many of his masterpieces and gain insight into his artistic process.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Artistic Heritage",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Walking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Local Markets: Visit the city's famous markets, such as the flower market at Place de",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Aix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Toulouse: The Pink City",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.6836734693877551
+        },
+        {
+          "text": "Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Romanesque churches in Europe.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Cité de l'Espace: This space-themed science museum features interactive exhibits, a",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Aerospace Industry",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5836734693877551
+        },
+        {
+          "text": "Montpellier: A University City with Medieval Charm",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.6816326530612244
+        },
+        {
+          "text": "Place de la Comédie: The central square of Montpellier, this bustling area is",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Musée Fabre: One of the most important art museums in France, the Musée Fabre",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.6816326530612244
+        },
+        {
+          "text": "Student Life",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "University Influence: Highlight the vibrant student life and the influence of the",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Modern Architecture: Mention modern architectural landmarks like the Antigone",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Montpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues,",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5816326530612245
+        },
+        {
+          "text": "Perpignan: A Blend of French and Catalan Cultures",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.6795918367346939
+        },
+        {
+          "text": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Gothic cathedral was built in the 14th century and features a beautiful cloister and bell",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Perpignan. It now houses the Casa Pairal Museum, which showcases the history and",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Loge de Mer: This historic building, originally a maritime trading exchange, dates back",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Perpignan's rich mercantile history.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Cultural Fusion",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Perpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5795918367346939
+        },
+        {
+          "text": "Arles: A Roman Treasure",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Christian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.6775510204081633
+        },
+        {
+          "text": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Church of St. Trophime: This Romanesque church, built in the 12th century, is known",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Santiago de Compostela.",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Artistic Influence",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Photography: Recommend visiting during the Rencontres d'Arles photography festival",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Arles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5775510204081633
+        },
+        {
+          "text": "Carcassonne: A Medieval Fortress",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "History",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Key Attractions",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.6755102040816326
+        },
+        {
+          "text": "Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town.",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "It oﬀers stunning views of the fortress and the surrounding countryside.",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Medieval Life",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Reenactments: Provide insights into medieval life in Carcassonne, including",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Cultural Highlights",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Carcassonne is known for its vibrant cultural scene, with numerous festivals and events",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5755102040816327
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 14,
+          "importance_rank": 0.673469387755102
+        },
+        {
+          "text": "The South of France is home to a diverse array of cities, each with its own unique history,",
+          "level": "H1",
+          "page": 14,
+          "importance_rank": 0.573469387755102
+        },
+        {
+          "text": "Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical",
+          "level": "H1",
+          "page": 14,
+          "importance_rank": 0.573469387755102
+        }
+      ]
+    },
+    {
+      "file_name": "South of France - Cuisine.pdf",
+      "title": "A Culinary Journey Through the South of France Introduction The South of France, known for its stunning landscapes and charming villages, is also a paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, fresh ingredients, and traditional recipes passed down through generations. This guide will take you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned wine regions, and the types of wines they produce to help you plan an unforgettable culinary",
+      "sections": [
+        {
+          "text": "A Culinary Journey Through the South of France",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "The South of France, known for its stunning landscapes and charming villages, is also a",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Types of Food",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Provençal Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Provençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Niçoise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Niçoise,",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Niçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage,",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Basque, a traditional Basque cake filled with pastry cream or cherry jam.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5952380952380952
+        },
+        {
+          "text": "Famous Dishes",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "The South of France is home to many iconic dishes that you must try during your visit:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish,",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Mediterranean.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes,",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans,",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Cassoulet: A hearty casserole from the Languedoc region, made with white beans,",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Tarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5904761904761904
+        },
+        {
+          "text": "Must-Visit Restaurants",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "To truly experience the culinary delights of the South of France, here are some restaurants",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Passedat is known for his innovative approach to seafood, creating dishes that are",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Riviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Socca to shine through.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "L'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "La Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5857142857142856
+        },
+        {
+          "text": "Wine Regions and Types of Wines",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "The South of France is renowned for its diverse and exceptional wine regions. Here are some",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Provence: Famous for its rosé wines, Provence is one of the oldest wine-producing",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Languedoc-Roussillon: This vast region stretches along the Mediterranean coast and is",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Corbières, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan,",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.6809523809523809
+        },
+        {
+          "text": "Grenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Rhône Valley: The southern part of the Rhône Valley is famous for its powerful red",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Vacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.6809523809523809
+        },
+        {
+          "text": "Mourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites.",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "South West France (Sud-Ouest): This lesser-known region is home to a variety of",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Colombard for whites.",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Corsica: Although technically an island, Corsica is often included in discussions of",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Southern French wine regions. The island's diverse terroir and Mediterranean climate",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5809523809523809
+        },
+        {
+          "text": "Culinary Experiences",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "In addition to dining at top restaurants, there are several culinary experiences you should",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Wine Tours: The South of France is renowned for its wine regions, including Provence",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Many olive groves also produce other products like tapenade and olive soap, which",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Truﬄe Hunting: The South of France is known for its truﬄes, particularly the black",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "After the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5761904761904761
+        },
+        {
+          "text": "Cheese Tasting: The South of France is home to a variety of delicious cheeses,",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5714285714285714
+        },
+        {
+          "text": "Pastry Workshops: French pastries are renowned worldwide, and the South of France",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5714285714285714
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.6666666666666666
+        },
+        {
+          "text": "The South of France oﬀers a rich and diverse culinary landscape that is sure to delight any",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5666666666666667
+        }
+      ]
+    },
+    {
+      "file_name": "South of France - History.pdf",
+      "title": "A Historical Journey Through the South of France Introduction The South of France, renowned for its picturesque landscapes, charming villages, and stunning coastline, is also steeped in history. From ancient Roman ruins to medieval fortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past. This guide will take you through the histories of major cities, famous historical sites, and other points of interest to help you plan an enriching and unforgettable trip.",
+      "sections": [
+        {
+          "text": "A Historical Journey Through the South of France",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "The South of France, renowned for its picturesque landscapes, charming villages, and",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "This guide will take you through the histories of major cities, famous historical sites, and other",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Marseille: The Oldest City in France",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Key Historical Sites in Marseille",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.6974789915966386
+        },
+        {
+          "text": "Old Port (Vieux-Port)",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Basilica of Notre-Dame de la Garde",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Built in the 19th century, it is a symbol of the city's maritime heritage.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Fort Saint-Jean",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Old Port. It now houses part of the Museum of European and Mediterranean",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Civilizations (MuCEM).",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Le Panier",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Château d'If",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Count of Monte Cristo\"",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "La Marseillaise",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5974789915966386
+        },
+        {
+          "text": "Nice: The Jewel of the French Riviera",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Roman colony and has since evolved into a glamorous resort town.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Key Historical Sites in Nice",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.6949579831932772
+        },
+        {
+          "text": "Castle Hill (Colline du Château)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Promenade des Anglais",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Old Town (Vieux Nice)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Russian Orthodox Cathedral",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Cimiez",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Carnival of Nice",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949579831932772
+        },
+        {
+          "text": "Avignon: The City of Popes",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Key Historical Sites in Avignon",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.6924369747899158
+        },
+        {
+          "text": "Palais des Papes",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Pont Saint-Bénézet (Pont d'Avignon)",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Avignon Cathedral",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Place de l'Horloge",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Rocher des Doms",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Avignon Festival",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5924369747899159
+        },
+        {
+          "text": "Nîmes: The Rome of France",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Nîmes, often referred to as the \"Rome of France,\" boasts some of the best-preserved Roman",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Key Historical Sites in Nîmes",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.6899159663865545
+        },
+        {
+          "text": "Arena of Nîmes",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Maison Carrée",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Pont du Gard",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "World Heritage site. It was built in the 1st century AD to transport water to the city.",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Jardins de la Fontaine",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Roman sanctuary. They oﬀer a peaceful retreat with beautiful fountains, statues, and",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Tour Magne",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Temple of Diana",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5899159663865545
+        },
+        {
+          "text": "Carcassonne: A Medieval Fortress",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Key Historical Sites in Carcassonne",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.6873949579831932
+        },
+        {
+          "text": "Cité de Carcassonne",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Basilica of Saints Nazarius and Celsus",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Château Comtal",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Pont Vieux",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "It oﬀers stunning views of the fortress and the surrounding countryside.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Inquisition Tower",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Medieval Inquisition to imprison and torture suspected heretics",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Hoardings",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5873949579831932
+        },
+        {
+          "text": "Toulouse: The Pink City",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Key Historical Sites in Toulouse",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.6848739495798318
+        },
+        {
+          "text": "Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Romanesque churches in Europe.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Pont Neuf: Despite its name, which means \"New Bridge,\" this is the oldest bridge in",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Toulouse. It was completed in the 17th century and oﬀers picturesque views of the",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Garonne River.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Canal du Midi: A UNESCO World Heritage site, this canal connects the Garonne River",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Aeroscopia Museum: Reflecting Toulouse's role as a center of the aerospace industry,",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5848739495798319
+        },
+        {
+          "text": "Arles: A Roman Treasure",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Christian pilgrimage.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Key Historical Sites in Arles",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.6823529411764705
+        },
+        {
+          "text": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Church of St. Trophime: This Romanesque church, built in the 12th century, is known",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Santiago de Compostela.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Van Gogh's Influence: Arles is also famous for its association with Vincent van Gogh,",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Foundation in Arles celebrates his legacy.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Cryptoporticus: An underground gallery built by the Romans in the 1st century BC, it",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5823529411764705
+        },
+        {
+          "text": "Aix-en-Provence: A City of Art and Culture",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Key Historical Sites in Aix-en-Provence",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.6798319327731092
+        },
+        {
+          "text": "Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Hôtel de Ville is a lively spot, often hosting markets and events.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Cézanne created many of his masterpieces and gain insight into his artistic process.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Thermal Springs: Aix-en-Provence was originally founded as a Roman spa town due to",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Festival d'Aix-en-Provence: An annual opera festival held in July, it is one of the most",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5798319327731092
+        },
+        {
+          "text": "Montpellier: A University City with Medieval Charm",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Key Historical Sites in Montpellier",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.6773109243697478
+        },
+        {
+          "text": "Place de la Comédie: The central square of Montpellier, this bustling area is",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Musée Fabre: One of the most important art museums in France, the Musée Fabre",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.6773109243697478
+        },
+        {
+          "text": "University of Montpellier: Founded in 1289, it is one of the oldest universities in the",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Jardin des Plantes: Established in 1593, it is the oldest botanical garden in France and",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5773109243697478
+        },
+        {
+          "text": "Perpignan: A Blend of French and Catalan Cultures",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Key Historical Sites in Perpignan",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.6747899159663865
+        },
+        {
+          "text": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Gothic cathedral was built in the 14th century and features a beautiful cloister and bell",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Perpignan. It now houses the Casa Pairal Museum, which showcases the history and",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Loge de Mer: This historic building, originally a maritime trading exchange, dates back",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Perpignan's rich mercantile history.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Campo Santo: One of the largest and oldest cloister cemeteries in France, dating back",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Festival de Perpignan: An annual photojournalism festival, Visa pour l'Image, held in",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Perpignan, attracts photographers and journalists from around the world.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5747899159663865
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.6722689075630252
+        },
+        {
+          "text": "The South of France oﬀers a rich tapestry of history, culture, and architecture that is sure to",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5722689075630252
+        },
+        {
+          "text": "Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5722689075630252
+        },
+        {
+          "text": "Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5722689075630252
+        }
+      ]
+    },
+    {
+      "file_name": "South of France - Restaurants and Hotels.pdf",
+      "title": "Comprehensive Guide to Restaurants and Hotels in the South of France Introduction The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your",
+      "sections": [
+        {
+          "text": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences.",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Restaurants",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Budget-Friendly Restaurants",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Chez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats,",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Petit Nice (Marseille): A budget-friendly option oﬀering a variety of seafood dishes.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "The relaxed setting and fresh ingredients make it a popular choice.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Café de Turin (Nice): Known for its seafood, this café oﬀers a variety of aﬀordable",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Panier (Marseille): A casual eatery oﬀering a variety of Mediterranean dishes at",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Le Petit Pontoise (Paris): A charming bistro oﬀering a variety of traditional French",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.597457627118644
+        },
+        {
+          "text": "Family-Friendly Restaurants",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Club 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Safari (Nice): Located in the heart of the old town, this restaurant oﬀers a diverse",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "La Table du Marché (Saint-Rémy-de-Provence): A welcoming restaurant with a varied",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Grill (Decize): A family-friendly restaurant oﬀering a variety of grilled meats and",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Jardin de Benjamin (Lorgues): This restaurant oﬀers a variety of dishes made with",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Petit Jardin (Montpellier): A family-friendly restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Mediterranean dishes. The outdoor seating and relaxed atmosphere make it a great",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Café de la Plage (Arcachon): This beachfront café oﬀers a variety of seafood dishes",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Petit Nice (Marseille): A family-friendly restaurant oﬀering a variety of seafood",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Jardin des Sens (Montpellier): This restaurant oﬀers a variety of dishes made with",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Le Café des Arts (Nice): A family-friendly café oﬀering a variety of dishes and kid-",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5949152542372882
+        },
+        {
+          "text": "Upscale Restaurants",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Riviera. The elegant setting and impeccable service make it a memorable dining",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Hostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant oﬀering",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Mediterranean. The lavish decor and exceptional service make it a dining experience",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5923728813559321
+        },
+        {
+          "text": "Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5898305084745763
+        },
+        {
+          "text": "Luxurious Restaurants",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Mediterranean. The lavish decor and exceptional service make it a dining experience",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Chantecler (Nice): A Michelin-starred restaurant oﬀering a variety of dishes made",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Jardin des Sens (Montpellier): A Michelin-starred restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "Le Petit Nice (Marseille): A Michelin-starred restaurant oﬀering a variety of dishes",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5872881355932202
+        },
+        {
+          "text": "La Villa Madie (Cassis): A two-Michelin-starred restaurant oﬀering a variety of dishes",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5847457627118644
+        },
+        {
+          "text": "Le Clos des Sens (Annecy): A three-Michelin-starred restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5847457627118644
+        },
+        {
+          "text": "Le Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5847457627118644
+        },
+        {
+          "text": "Le Pré Catelan (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5847457627118644
+        },
+        {
+          "text": "Hotels",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Budget-Friendly Hotels",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel Azur (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel de la Paix (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel du Palais (Montpellier): A budget-friendly hotel located in the heart of",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel de la Mer (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel de la Plage (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Hotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5822033898305085
+        },
+        {
+          "text": "Family-Friendly Hotels",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Hôtel de Paris (Monaco): A luxurious family-friendly hotel oﬀering spacious rooms,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5796610169491525
+        },
+        {
+          "text": "Upscale Hotels",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Anglais, oﬀering luxurious rooms and exceptional service. The opulent decor and",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "InterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "The refined decor and serene atmosphere make it a perfect retreat.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "The glamorous setting and high-end services make it a favorite among celebrities.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "The glamorous setting and high-end services make it a favorite among celebrities.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hôtel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Hôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croisette,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5745762711864406
+        },
+        {
+          "text": "Luxurious Hotels",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Hôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Monaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Château Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château,",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Airelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Mediterranean. The refined ambiance and top-tier services make it a standout choice",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel oﬀering luxurious rooms, a",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "La Réserve Ramatuelle (Ramatuelle): A luxurious hotel oﬀering elegant rooms, a spa,",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Villa La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, oﬀering",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Hôtel Hermitage Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Le Byblos (Saint-Tropez): A luxurious hotel oﬀering elegant rooms, a spa, and a vibrant",
+          "level": "H1",
+          "page": 12,
+          "importance_rank": 0.5720338983050848
+        },
+        {
+          "text": "Hôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5694915254237288
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 14,
+          "importance_rank": 0.6669491525423729
+        },
+        {
+          "text": "The South of France oﬀers a wide range of dining and accommodation options to suit every",
+          "level": "H1",
+          "page": 14,
+          "importance_rank": 0.5669491525423729
+        }
+      ]
+    },
+    {
+      "file_name": "South of France - Things to Do.pdf",
+      "title": "Ultimate Guide to Activities and Things to Do in the South of France Introduction The South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers a wealth of activities and experiences for travelers. Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone. This guide will take you through a variety of activities and must-see attractions to help you plan an unforgettable trip.",
+      "sections": [
+        {
+          "text": "Ultimate Guide to Activities and Things to Do in the South of France",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Coastal Adventures",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "The South of France is renowned for its beautiful coastline along the Mediterranean Sea. Here",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Beach Hopping",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Nice",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Antibes",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Saint-Tropez",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Marseille to Cassis",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Calanques National Park.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Cannes",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Croisette.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Menton",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Water Sports",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Cannes, Nice, and Saint-Tropez",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Toulon",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Cerbère-Banyuls",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Mediterranean Coast",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Marseille",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Port Grimaud",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "La Ciotat",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5982456140350877
+        },
+        {
+          "text": "Cultural Experiences",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "The South of France is rich in history and culture. Here are some activities to immerse",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Art and Museums",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Nice",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Antibes",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Saint-Paul-de-Vence",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Aix-en-Provence",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Cézanne.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Arles",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Marseille",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Toulouse",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Historical Sites",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Nîmes",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Avignon",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Carcassonne",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Arles",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Orange",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Aigues-Mortes",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Grasse",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5964912280701754
+        },
+        {
+          "text": "Outdoor Activities",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "The diverse landscapes of the South of France oﬀer plenty of opportunities for outdoor",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Hiking and Biking",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Verdon Gorge",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Luberon Regional Park",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Pyrenees National Park",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Mercantour National Park",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Camargue",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Mont Ventoux",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Gorges du Tarn",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Water Activities",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Ardèche River",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Dordogne River",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Ubaye River",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Gorges du Verdon",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Lake Sainte-Croix",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Lake Serre-Ponçon",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Cévennes National Park",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5947368421052631
+        },
+        {
+          "text": "Culinary Delights",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "The South of France is a food lover's paradise. Here are some activities to indulge in the",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Wine Tasting",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Provence",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Languedoc",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Châteauneuf-du-Pape",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Bandol",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Côtes du Rhône",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Gaillac",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Bordeaux",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Cooking Classes",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Provence",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Périgord",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Nice",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Toulouse",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Marseille",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Lyon",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Sarlat",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5929824561403508
+        },
+        {
+          "text": "Festivals and Events",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "The South of France hosts a variety of festivals and events throughout the year. Here are",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Cannes",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Nice",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Avignon",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Arles",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "September.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Menton",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Grasse",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Marseille",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5912280701754387
+        },
+        {
+          "text": "Relaxation and Wellness",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "For those seeking relaxation and rejuvenation, the South of France oﬀers plenty of options:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Spa and Wellness Retreats",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Aix-en-Provence",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Bordeaux",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Vichy",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Evian-les-Bains",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Saint-Raphaël",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Biarritz",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Cannes",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Yoga and Meditation Retreats",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Provence",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Pyrenees",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Côte d'Azur",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Luberon",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Camargue",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Saint-Tropez",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Corsica",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5894736842105264
+        },
+        {
+          "text": "Shopping and Markets",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Local Markets",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Nice",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Cannes",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Avignon",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Aix-en-Provence",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Saint-Rémy-de-Provence",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Uzès",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Sarlat",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Boutique Shopping",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques,",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Aix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Nice: Find charming boutiques in the old town, oﬀering handmade soaps, ceramics,",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Saint-Tropez: Explore the chic boutiques and designer stores in this glamorous town.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Marseille: Visit the trendy shops in the Le Panier district, known for its artisan goods",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Montpellier: Discover the boutiques in the historic Écusson district, oﬀering fashion,",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Toulouse: Shop in the vibrant Capitole area, home to a mix of high-end and",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.587719298245614
+        },
+        {
+          "text": "Family-Friendly Activities",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "The South of France oﬀers a variety of activities that are perfect for families with children:",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Theme Parks and Attractions",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Antibes: Visit Marineland for marine shows and an aquarium.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Fréjus: Cool oﬀ at Aqualand water park.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Villeneuve-Loubet: Enjoy quirky attractions at Le Village des Fous.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Monteux: Spend a day at Parc Spirou, a theme park based on the famous comic book",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "La Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Cap d'Agde: Have fun at Luna Park, an amusement park with rides and games.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Toulouse: Visit the Cité de l'Espace, a space-themed science museum with interactive",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Outdoor Adventures",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Verdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Gorge.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Camargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Various Locations: Try tree-top adventure parks with zip lines, rope bridges, and",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Gorges du Tarn: Go on a family-friendly hike and enjoy the scenic views.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Lake Annecy: Rent bikes and ride along the lake's picturesque bike paths.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Pyrenees: Take a cable car ride for stunning mountain views and easy hiking trails.",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Dordogne: Explore the region's caves and prehistoric sites with guided tours suitable",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Educational Experiences",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Toulouse: Visit Cité de l'Espace for a space-themed science museum with interactive",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.5859649122807018
+        },
+        {
+          "text": "Monaco: Explore the Musée Océanographique and its marine exhibits, including a",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5842105263157895
+        },
+        {
+          "text": "Dordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rouﬃgnac,",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5842105263157895
+        },
+        {
+          "text": "Montpellier: Discover the Planet Ocean World, an aquarium and planetarium with",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5842105263157895
+        },
+        {
+          "text": "Carcassonne: Take a guided tour of the medieval citadel and learn about its history",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5842105263157895
+        },
+        {
+          "text": "Nîmes: Visit the Roman amphitheater and learn about ancient Roman history.",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5842105263157895
+        },
+        {
+          "text": "Arles: Explore the Roman ruins and the Musée de l'Arles Antique, which showcases",
+          "level": "H1",
+          "page": 10,
+          "importance_rank": 0.5842105263157895
+        },
+        {
+          "text": "Nightlife and Entertainment",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "The South of France oﬀers a vibrant nightlife scene, with options ranging from chic bars to",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Bars and Lounges",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Monaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in the Hôtel",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Nice: Try creative cocktails at Le Comptoir du Marché, a trendy bar in the old town.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Cannes: Experience dining and entertainment at La Folie Douce, with live music, DJs,",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Marseille: Visit Le Trolleybus, a popular bar with multiple rooms and music styles.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Saint-Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Montpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Toulouse: Sip on cocktails at Fat Cat, a stylish bar with a vintage vibe.",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Nightclubs",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Saint-Tropez: Dance at the famous Les Caves du Roy, known for its glamorous",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Nice: Party at High Club on the Promenade des Anglais, featuring multiple dance",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Cannes: Enjoy the stylish setting and rooftop terrace at La Suite, oﬀering stunning",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Marseille: Visit R2 Rooftop, a popular nightclub with panoramic views of the city and",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Monaco: Experience the exclusive Jimmy'z, a legendary nightclub with a luxurious",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Montpellier: Dance the night away at L'Antirouille, a club known for its eclectic music",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Toulouse: Check out Le Purple, a trendy nightclub with a vibrant dance floor and top-",
+          "level": "H1",
+          "page": 11,
+          "importance_rank": 0.5824561403508772
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.6789473684210526
+        },
+        {
+          "text": "The South of France is a diverse and enchanting region that oﬀers a wide range of activities",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5789473684210527
+        },
+        {
+          "text": "France promises an unforgettable journey filled with memories that will last a lifetime. Use",
+          "level": "H1",
+          "page": 13,
+          "importance_rank": 0.5789473684210527
+        }
+      ]
+    },
+    {
+      "file_name": "South of France - Tips and Tricks.pdf",
+      "title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and Exploring Introduction Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip.",
+      "sections": [
+        {
+          "text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Planning, and Exploring",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "Planning a trip to the South of France requires thoughtful preparation to ensure a",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "General Packing Tips and Tricks",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Layering:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "The weather can vary, so pack layers to stay comfortable in diﬀerent",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Versatile Clothing:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Choose items that can be mixed and matched to create multiple",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Packing Cubes:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Use packing cubes to organize your clothes and maximize suitcase",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Roll Your Clothes:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Rolling clothes saves space and reduces wrinkles.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Travel-Sized Toiletries:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Bring travel-sized toiletries to save space and comply with",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Reusable Bags:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Pack a few reusable bags for laundry, shoes, or shopping.",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "First Aid Kit:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Include a small first aid kit with band-aids, antiseptic wipes, and any",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Copies of Important Documents:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.6985294117647058
+        },
+        {
+          "text": "Make copies of your passport, travel insurance, and",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Portable Laundry Kit:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "A small laundry kit with detergent and a travel clothesline can",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Multi-Purpose Shoes:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Choose shoes that are comfortable for walking but can also be",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Travel Pillow and Blanket:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "A compact travel pillow and blanket can make long flights",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Ziplock Bags:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Use ziplock bags for liquids, snacks, or to keep items organized and",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Emergency Contact List:",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Have a list of emergency contacts, including local embassy",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5985294117647059
+        },
+        {
+          "text": "Packing for All Seasons",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Spring (March to May)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Clothing:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Light sweaters, long-sleeve shirts, t-shirts, and a light jacket or raincoat.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Footwear:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Comfortable walking shoes and sandals.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Accessories:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Sunglasses, a hat, and a small umbrella.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Spring can be unpredictable, so be prepared for both sunny and rainy",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Summer (June to August)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Clothing:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Lightweight, breathable fabrics like cotton and linen. Pack t-shirts, shorts,",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Footwear:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Sandals, flip-flops, and comfortable walking shoes.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Accessories:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Sunglasses, a wide-brimmed hat, sunscreen, and a reusable water bottle.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "The South of France can get very hot in the summer, so stay hydrated",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Autumn (September to November)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Clothing:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Light sweaters, long-sleeve shirts, t-shirts, and a medium-weight jacket.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Footwear:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Comfortable walking shoes and boots.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Accessories:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Sunglasses, a scarf, and a small umbrella.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Autumn is a great time to visit vineyards and enjoy the harvest",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Winter (December to February)",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Clothing:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Warm layers such as sweaters, long-sleeve shirts, and thermal tops. A heavy",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Footwear:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Waterproof boots and comfortable walking shoes.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Accessories:",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "A scarf, sunglasses for sunny winter days, and a travel-sized hand",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5970588235294118
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Winter is mild compared to other regions, but it's still important to",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.6955882352941176
+        },
+        {
+          "text": "Packing for Adults",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Clothing",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Casual Wear:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Comfortable clothes for sightseeing and casual dining, like jeans, t-",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Evening Wear:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Dressier outfits for dining out or events. Pack a nice dress or dress",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Active Wear:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "If you plan on hiking or outdoor activities, pack activewear like leggings,",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Swimwear:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Don't forget your swimsuit for beach or pool visits.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Accessories:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "A stylish yet functional bag, a lightweight scarf, and a versatile jacket.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Pack a few statement pieces that can be dressed up or down, such as",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Toiletries",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Basic Toiletries:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Toothbrush, toothpaste, shampoo, conditioner, body wash,",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Skincare:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Sunscreen, moisturizer, and daily skincare products.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Makeup:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Pack essentials in a travel-sized makeup bag.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.6955882352941176
+        },
+        {
+          "text": "Additional Items:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "A small sewing kit, nail clippers, and a razor.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Consider packing a travel-sized perfume or cologne to freshen up on",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Gadgets and Accessories",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Electronics:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Smartphone, charger, power bank, and other devices. Bring a travel",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Camera:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Capture memories with a camera, extra batteries, and memory cards.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Books and Entertainment:",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "A book, e-reader, or tablet for entertainment during",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5955882352941176
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5941176470588234
+        },
+        {
+          "text": "Download maps and travel guides to your devices for oﬄine use.",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5941176470588234
+        },
+        {
+          "text": "Consider bringing a portable Wi-Fi hotspot for reliable internet access.",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5941176470588234
+        },
+        {
+          "text": "Packing for Kids",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Clothing",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Comfortable Wear:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "T-shirts, shorts, pants, dresses, pajamas, and underwear.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Layering:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Depending on the season, pack sweaters, jackets, and hats.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Swimwear:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Swimsuits and cover-ups for beach or pool days.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Accessories:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "A sun hat, sunglasses, and a lightweight jacket.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Pack extra clothing for kids, as they may need more changes of",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Essentials",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.6926470588235293
+        },
+        {
+          "text": "Diapers and Wipes:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "For babies or toddlers, pack enough diapers and wipes.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Snacks:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Bring a variety of snacks for travel and outings.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Toys and Entertainment:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Favorite toys, books, or games. Consider a tablet with pre-",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Pack a small backpack for each child with their essentials to keep",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.6926470588235293
+        },
+        {
+          "text": "Toiletries",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Basic Toiletries:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Toothbrush, toothpaste, shampoo, body wash, and personal hygiene",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Sunscreen:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Kid-friendly sunscreen.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Additional Items:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "A small first aid kit with child-specific medications.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Pack extra toiletries for kids, as they may need more frequent use of",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Safety and Comfort",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Car Seat:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Check if a car seat is provided if renting a car. If not, bring your own.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Stroller:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "A lightweight, foldable stroller for younger children.",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Blanket and Pillow:",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "A small blanket and travel pillow for comfort during flights or",
+          "level": "H1",
+          "page": 6,
+          "importance_rank": 0.5926470588235293
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Bring a favorite stuﬀed animal or comfort item to help kids feel at",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Special Considerations",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Beach Trips",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Beach Bag:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "A large, waterproof bag for essentials.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.6911764705882352
+        },
+        {
+          "text": "Towels:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Lightweight, quick-drying beach towels.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Beach Toys:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Buckets, shovels, and toys for kids.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Snorkeling Gear:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Bring your own gear for a better fit and comfort.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Pack a beach umbrella or tent for shade and a cooler for drinks and",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Hiking and Outdoor Activities",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Backpack:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "A sturdy, comfortable backpack for essentials.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.6911764705882352
+        },
+        {
+          "text": "Water Bottle:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "A reusable water bottle.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "First Aid Kit:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "A small kit with band-aids, antiseptic wipes, and medications.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Insect Repellent:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Protect against bugs and mosquitoes.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Wear moisture-wicking clothing and sturdy hiking boots. Bring a map",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "City Exploration",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Day Bag:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "A small, secure day bag for carrying essentials like water, snacks, and a",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.6911764705882352
+        },
+        {
+          "text": "Comfortable Shoes:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Wear comfortable walking shoes for exploring cities.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Guidebook:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "A guidebook or map to help navigate and find points of interest.",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Use a money belt or hidden pouch to keep valuables safe. Consider",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Wine Tours",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Comfortable Clothing:",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Wear comfortable, casual clothing suitable for walking and",
+          "level": "H1",
+          "page": 7,
+          "importance_rank": 0.5911764705882352
+        },
+        {
+          "text": "Notebook:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Bring a notebook to jot down notes about the wines you taste.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Water Bottle:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Stay hydrated by drinking water between tastings.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Plan your wine tour route in advance and consider hiring a driver or",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Tips and Tricks for Packing",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Check the Weather:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Check the forecast before packing to ensure appropriate clothing.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Make a Packing List:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Create a list to ensure nothing is forgotten. Cross oﬀ items as you",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Use Packing Cubes:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Organize clothes and maximize space.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Roll Your Clothes:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Save space and reduce wrinkles.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Pack Dual-Purpose Items:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Choose items that serve multiple purposes.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Wear Bulky Items:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Wear bulky items like coats or boots during travel to save suitcase",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Pack a Day Bag:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Bring a small day bag for daily excursions.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Leave Room for Souvenirs:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Leave extra space or bring a foldable bag for souvenirs.",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Additional Tips:",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Pack a small travel umbrella, a reusable shopping bag, and a",
+          "level": "H1",
+          "page": 8,
+          "importance_rank": 0.5897058823529411
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.688235294117647
+        },
+        {
+          "text": "Packing for a trip to the South of France involves considering the season, planned activities,",
+          "level": "H1",
+          "page": 9,
+          "importance_rank": 0.588235294117647
+        }
+      ]
+    },
+    {
+      "file_name": "South of France - Traditions and Culture.pdf",
+      "title": "A Comprehensive Guide to Traditions and Culture in the South of France Introduction The South of France, with its picturesque landscapes, charming villages, and vibrant cities, is not only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This region, known for its rich history and diverse influences, oﬀers a unique blend of customs, festivals, and local practices that reflect its distinct identity. This guide will take you through the various traditions and cultural aspects of the South of France, providing a deep",
+      "sections": [
+        {
+          "text": "A Comprehensive Guide to Traditions and Culture in the South of France",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Introduction",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.7
+        },
+        {
+          "text": "The South of France, with its picturesque landscapes, charming villages, and vibrant cities, is",
+          "level": "H1",
+          "page": 1,
+          "importance_rank": 0.6
+        },
+        {
+          "text": "Language and Literature",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Provençal Language",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "The Provençal language, also known as Occitan, has been a significant part of the cultural",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Literature and Poetry",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "The South of France has inspired many writers and poets over the centuries. The troubadours",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Festivals and Celebrations",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Carnival of Nice",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Held in Nice from mid-February to early March, the Carnival of Nice is one of the most",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Fête de la Musique",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Celebrated on June 21st, the Fête de la Musique is a nationwide music festival that originated",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Transhumance Festivals",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Rémy-de-Provence in May. These festivals feature parades of sheep, goats, and cattle,",
+          "level": "H1",
+          "page": 2,
+          "importance_rank": 0.5943396226415094
+        },
+        {
+          "text": "Traditional Sports and Games",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Pétanque",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Pétanque is a popular game in the South of France, particularly in Provence. Played with",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Course Camarguaise",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "The Course Camarguaise is a traditional bullfighting sport unique to the Camargue region.",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Unlike Spanish bullfighting, the objective is not to harm the bull but to remove ribbons and",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Culinary Traditions",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Provençal Cuisine",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Provençal cuisine is characterized by its use of fresh, local ingredients and Mediterranean",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Provençal dishes. Some iconic dishes include ratatouille, a vegetable stew; bouillabaisse, a",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Wine and Vineyards",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "The South of France is renowned for its wine production, with regions such as Provence,",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Languedoc, and the Rhône Valley producing some of the finest wines in the world. Wine is an",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Truﬄe Hunting",
+          "level": "H1",
+          "page": 3,
+          "importance_rank": 0.5886792452830188
+        },
+        {
+          "text": "Truﬄes, often referred to as \"black diamonds,\" are a prized delicacy in the South of France.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "The region's truﬄe season, which runs from November to March, is marked by truﬄe markets",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Arts and Crafts",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Pottery and Ceramics",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Biot being renowned for their craftsmanship. Artisans create a wide range of items, from",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Lavender Products",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Lavender is synonymous with Provence, and the region's lavender fields are a major",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Religious and Spiritual Traditions",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Pilgrimages",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "The South of France is home to several important pilgrimage sites. The town of Lourdes,",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.6830188679245283
+        },
+        {
+          "text": "Pilgrims come to Lourdes to visit the Sanctuary of Our Lady of Lourdes, where the Virgin",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Mary is said to have appeared to a young girl in 1858. The town of Saintes-Maries-de-la-Mer",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Saint Sara.",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Christmas Traditions",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Christmas in Provence is marked by unique traditions that reflect the region's cultural",
+          "level": "H1",
+          "page": 4,
+          "importance_rank": 0.5830188679245283
+        },
+        {
+          "text": "Music and Dance",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5773584905660377
+        },
+        {
+          "text": "Provençal Folk Music",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5773584905660377
+        },
+        {
+          "text": "Provençal folk music is an essential part of the region's cultural identity. Traditional",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.6773584905660377
+        },
+        {
+          "text": "Jazz Manouche",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5773584905660377
+        },
+        {
+          "text": "The South of France has a rich tradition of Jazz manouche. This genre was popularized by the",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5773584905660377
+        },
+        {
+          "text": "Conclusion",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.6773584905660377
+        },
+        {
+          "text": "The South of France is a region steeped in traditions and cultural heritage that reflect its",
+          "level": "H1",
+          "page": 5,
+          "importance_rank": 0.5773584905660377
+        }
+      ]
+    }
+  ]
+}
